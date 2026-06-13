@@ -11,7 +11,7 @@ I've been into programming since 2020, and I'm always looking for new ways to im
 </ul>
 👌 <b>Other cool stuff</b>
 <ul>
-  <li><a href="https://lichess.org/@/Reprs-Bombastic-Bot" target="_blank">Reprs-Bombastic-Bot</a> &nbsp;C++ program made to play chess at a very high level (>2200 ELO on Lichess)</li>
+  <li><a href="https://lichess.org/@/Reprs-Bombastic-Bot" target="_blank">Reprs-Bombastic-Bot</a> &nbsp;C++ program made to play chess at a very high level (>2400 ELO on Lichess)</li>
   <li><a href="https://github.com/Repr-dev/BaseREPR-Desktop" target="_blank">BaseREPR-Desktop</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C++ cryptography experiment—can encrypt or decrypt text on the fly</li>
   <li><a href="https://github.com/Repr-dev/ReprUNO-Enhanced" target="_blank">ReprUNO-Enhanced</a> &nbsp;&nbsp;&nbsp;Tool to help you win UNO games</li>
 </ul>
